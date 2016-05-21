@@ -5,6 +5,8 @@ This python script displays different information about predefined movies.
 All movie information except the movie trailer is pulled through the public 
 OMDb API (http://omdbapi.com/). 
 
+Both fresh_tomatoes.html and fresh_tomatoes.py were provided in its current form by Udacity, no changes have been made.
+
 ## How to use
 
 The movies have to be preselected. Define the movies you want to display by 

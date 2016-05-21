@@ -21,8 +21,9 @@ pulp_fiction = media.Movie('pulp fiction',
 django_unchained = media.Movie('django unchained',
                                'https://youtu.be/eUdM9vrCbow')
 
-movies = [deadpool, zootopia, avatar, hateful_eight, pulp_fiction, django_unchained]
-
+#Display the movies on the page
+movies = [deadpool, zootopia, avatar, hateful_eight, pulp_fiction,
+          django_unchained]
 fresh_tomatoes.open_movies_page(movies)
 
 
